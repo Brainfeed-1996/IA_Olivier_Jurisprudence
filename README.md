@@ -106,4 +106,5 @@ UX : Un "Spinner" de chargement indique visuellement que l'analyse est en cours.
 
 [![JurisExpert](https://i.postimg.cc/SxQDJyZ8/Capture-d-ecran-2025-12-19-160857.jpg)](https://postimg.cc/tYfhcHGC)
 
-[!CAUTION] Note Juridique : Cet outil est un assistant à la décision. L'analyse finale doit toujours être validée par un professionnel qualifié.
+> [!CAUTION]
+> **Note Juridique** : Cet outil est un assistant à la décision. L'analyse finale doit toujours être validée par un professionnel qualifié.
