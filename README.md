@@ -87,12 +87,14 @@ Rendu Markdown : Les listes et le gras s'affichent proprement grâce à la libra
 UX : Un "Spinner" de chargement indique visuellement que l'analyse est en cours.
 
 ### 🛠️ Dépannage (Troubleshooting)
-[!TIP] Erreur 404 (Model Not Found) : Lancez python check_models.py. Ce script interroge Google pour lister les modèles exacts auxquels votre projet a droit. Copiez le nom obtenu dans app.py.
+> [!TIP]
+> **Erreur 404 (Model Not Found)** : Lancez `python check_models.py`. Ce script interroge Google pour lister les modèles exacts auxquels votre projet a droit.
 
-[!IMPORTANT] Erreur 500 (Internal Server Error) : Vérifiez votre terminal. Le message d'erreur s'y affichera en rouge avec les détails de la ligne en cause.
+> [!IMPORTANT]
+> **Erreur 500 (Internal Server Error)** : Vérifiez votre terminal. Le message d'erreur s'y affichera en rouge avec les détails de la ligne en cause.
 
-[!WARNING] Erreur de Port (Permission Denied) : Assurez-vous qu'aucune autre instance de app.py ne tourne. Fermez le terminal et relancez-le si nécessaire.
-
+> [!WARNING]
+> **Erreur de Port (Permission Denied)** : Assurez-vous qu'aucune autre instance de `app.py` ne tourne. Fermez le terminal et relancez-le si nécessaire.
 ### 🔮 Évolutions Futures
 [ ] Export PDF : Transformer l'analyse en document officiel d'un clic.
 
